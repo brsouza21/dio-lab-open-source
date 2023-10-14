@@ -35,6 +35,9 @@
 9. Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`; 
 10. Crie um **Pull Request**.
 
+## Desafios Git e GitHub
+- [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
+
 ## Convenção de Commits 
 
 | Tipo de Commit | Descrição|
@@ -45,11 +48,6 @@
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
 | `test`         | Adiciona ou modifica testes no projeto.        |
-
-## Desafios Git e GitHub
-- [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
-
-
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
